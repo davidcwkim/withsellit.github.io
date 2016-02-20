@@ -3,7 +3,7 @@ title:       Sellit
 email:       developer@withsellit.com
 author:      Sellit Dev
 description: "대한민국 1등 중고거래 컨시어지 서비스, 셀잇"
-baseurl:     "withsellit.github.io"
+baseurl:     ""
 url:         "http://withsellit.github.io"
 date_format: "%b %-d, %Y"
 
