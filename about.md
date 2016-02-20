@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Sellit
+title: About SELLIT
 permalink: /about/
 tags: about
 ---
